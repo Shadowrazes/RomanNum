@@ -2,7 +2,7 @@
 {
     public static void Main()
     {
-        RomanNumber a = new RomanNumber(1434);
+        RomanNumber a = new RomanNumber(432);
         RomanNumber b = new RomanNumber(2368);
         RomanNumber c = new RomanNumber(1000);
         RomanNumber d = new RomanNumber(2);
