@@ -7,7 +7,7 @@
         RomanNumber c = new RomanNumber(1000);
         RomanNumber d = new RomanNumber(2);
 
-        Console.WriteLine("A = 1434 = " + a.ToString());
+        Console.WriteLine("A = 432 = " + a.ToString());
         Console.WriteLine("B = 2368 = " + b.ToString());
         Console.WriteLine("C = 1000 = " + c.ToString());
         Console.WriteLine("D = 2 = " + d.ToString());
